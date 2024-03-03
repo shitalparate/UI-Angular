@@ -8,7 +8,7 @@ receiver_email = "shitalparate97@gmail.com"
 password = "qdmf lcbj psbl sioz"
 
 #  email subject and body
-subject = "Email From Python"
+subject = "Email From Python for checking purpose"
 body = "This email send from Python. Isn't that cool"
 
 # Setting up mime
